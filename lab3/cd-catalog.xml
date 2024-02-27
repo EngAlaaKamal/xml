@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<catalog>
+    <cd>
+        <title>New Title 1</title>
+        <artist>New Artist 1</artist>
+        <country>New Country 1</country>
+        <company>New Company 1</company>
+        <price>11.11</price>
+        <year>2000</year>
+    </cd>
+    <cd>
+        <title>New Title 2</title>
+        <artist>New Artist 2</artist>
+        <country>New Country 2</country>
+        <company>New Company 2</company>
+        <price>22.22</price>
+        <year>2001</year>
+    </cd>
+    <cd>
+        <title>New Title 3</title>
+        <artist>New Artist 3</artist>
+        <country>New Country 3</country>
+        <company>New Company 3</company>
+        <price>33.33</price>
+        <year>2002</year>
+    </cd>
+</catalog>

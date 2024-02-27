@@ -1,0 +1,14 @@
+# Select all the CD's titles with price more than 10$
+/catalog/cd[price>10]/title
+
+# Select all the CD's that came before 1990
+/catalog/cd[year<1990]
+
+# Select the titles and prices of all the CDs from 'New Country 1'
+/catalog/cd[country="New Country 1"]/title | /catalog/cd[country="New Country 1"]/price
+
+# Select the artists names in the CDs that came before "New Artist 2"'s CD
+/catalog/cd[artist="New Artist 2"]/preceding-sibling::node()/artist
+
+# Select the titles of all the CDs after the "Private Dancer" CD
+/catalog/cd[title="Private Dancer"]/following-sibling::node()/title

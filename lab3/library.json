@@ -1,0 +1,25 @@
+{
+    "location": "99, alx, egypt",
+    "description": "description",
+    "librarian": "alaa",
+    "books": [
+      {
+        "isbn": "3231",
+        "category": "action",
+        "title": "who",
+        "author": "alaa",
+        "parts": [
+          {
+            "title": "part 1",
+            "chapters": [
+              {
+                "title": "chapter 1",
+                "summary": " summary",
+                "section": ["one", "two", "three"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
